@@ -65,16 +65,16 @@ https://www.kaggle.com/datasets/wm1deep7/analyst-jobs-in-india-from-indeed-22-se
 
 ## Approach :
 
-## Web scraping
+-  ## Web scraping
 Utilizing web scraping tools **octoparse**, I systematically collected job postings from Indeed, extracting key information such as job titles, companies, locations, and job descriptions. 
    
    The data collection process ensured the inclusion of a diverse range of analyst positions across industries.
 
-## Data Analysis:
+-  ## Data Analysis:
 I employed advanced data analysis techniques using Excel to uncover trends, patterns, and valuable insights within the dataset.      
 This involved sorting and filtering data, performing statistical analysis, and creating visual representations to facilitate a comprehensive understanding of the job market.
 
-## Dashboard Creation:
+-  ## Dashboard Creation:
 To present the findings in a clear and accessible manner, I developed a dynamic dashboard using Excel.    
 The dashboard includes interactive visualizations, charts, and graphs that enable stakeholders to grasp the nuances of the analyst job market in India easily.   
 
