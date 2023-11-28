@@ -18,22 +18,15 @@ Leveraging web scraping techniques, I gathered real-time job listings to gain in
 
  ## 🛠 Skills Demonstrated :
 
--  Data Loading
+-  Web Scraping
 
 -  Exploratory Data Analysis (EDA)
 
 -  Data Pre-processing and Cleaning
 
--  Data Manipulation 
+-  Data Manipulation (ETL )
 
--  Data Grouping and Aggregation
-
--  Data Visualization
-
--  Web scraping using Python
-Data cleaning and preprocessing
-Advanced data analysis in Excel
-Dashboard creation and visualization
+-  Dashboard creation and visualization
 
 ## Dataset : 
 https://www.kaggle.com/datasets/wm1deep7/analyst-jobs-in-india-from-indeed-22-sept-2022
