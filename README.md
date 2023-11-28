@@ -40,7 +40,28 @@ https://www.kaggle.com/datasets/wm1deep7/analyst-jobs-in-india-from-indeed-22-se
 
 ##  Objectives :
 
+**Total Number of Jobs with Each Field:**
+
+-  Quantify and categorize the total number of analyst jobs available in the dataset, providing an overview of the distribution of job opportunities across different fields within the analyst domain.
+
+**Top 3 Cities for Each Job Field:**
+
+-  Identify the top three cities associated with each analyst job field, showcasing geographical preferences and concentration of opportunities in specific urban centers.
+
+**Job Types for Each Job Field:**
+
+-  Explore and categorize job types within each analyst job field, shedding light on the variety of roles available and the specific attributes associated with each.
+
+**Job Shifts and Job Roles for Each Job Field:**
+
+-  Analyze and present insights into the prevalent job shifts and roles associated with each analyst job field, providing a nuanced understanding of the work structures and responsibilities within the industry.
+
+**Jobs Opportunity in Each State:**
+
+-  Determine the number of job opportunities in each state, offering a state-wise distribution of analyst positions and highlighting regions with significant employment prospects.
   
+**Develop an interactive dashboard to visually represent key findings and facilitate easy interpretation.**
+
 
 ## Approach :
 
@@ -63,7 +84,8 @@ The dashboard includes interactive visualizations, charts, and graphs that enabl
 
 ## Impact:
 The project provides valuable insights for job seekers, recruiters, and career counselors by offering a data-driven perspective on the current analyst job landscape in India.     
-The interactive dashboard enhances the usability of the findings and facilitates informed decision-making. 
+The interactive dashboard enhances the usability of the findings and facilitates informed decision-making and facilitating a deeper understanding of the job market dynamics in India. 
+
 
 ## Conclusion:
 This project showcases my proficiency in web scraping, data analysis, and visualization, emphasizing my ability to derive actionable insights from large datasets. 
