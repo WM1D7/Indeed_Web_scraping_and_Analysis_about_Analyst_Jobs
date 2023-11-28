@@ -62,7 +62,6 @@ https://www.kaggle.com/datasets/wm1deep7/analyst-jobs-in-india-from-indeed-22-se
   
 **Develop an interactive dashboard to visually represent key findings and facilitate easy interpretation.**
 
-
 ## Approach :
 
 -  ## Web scraping
@@ -88,6 +87,27 @@ The interactive dashboard enhances the usability of the findings and facilitates
 
 ## Key Findings:
 
+-  Total Number of Jobs with Each Field:
+
+Data Analyst job dominates with 520 positions.
+
+-  Top 3 Cities for Each Job Field:
+
+Mumbai: 109 jobs
+Bengaluru: 237 jobs
+Pune: 131 jobs
+
+-  Job Types for Each Job Field:
+
+Most available jobs are Full-Time positions, while Part-Time and Internship roles are less common.
+
+-  Job Shifts and Job Role for Each Job Field:
+
+The majority of jobs have Day Shifts, with a limited number of Night Shift positions.
+
+-  Jobs Opportunity in Each State:
+
+Job opportunities across states are visually represented on the dashboard map.
 
 ## Conclusion:
 This project showcases my proficiency in web scraping, data analysis, and visualization, emphasizing my ability to derive actionable insights from large datasets. 
