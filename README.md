@@ -65,3 +65,5 @@ The project provides valuable insights for job seekers, recruiters, and career c
 The interactive dashboard enhances the usability of the findings and facilitates informed decision-making. 
 
 ## Conclusion:
+This project showcases my proficiency in web scraping, data analysis, and visualization, emphasizing my ability to derive actionable insights from large datasets. 
+The interactive dashboard enhances the accessibility of the findings, making it a valuable resource for various stakeholders in the job market.
