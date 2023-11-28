@@ -86,6 +86,8 @@ The dashboard includes interactive visualizations, charts, and graphs that enabl
 The project provides valuable insights for job seekers, recruiters, and career counselors by offering a data-driven perspective on the current analyst job landscape in India.     
 The interactive dashboard enhances the usability of the findings and facilitates informed decision-making and facilitating a deeper understanding of the job market dynamics in India. 
 
+## Key Findings:
+
 
 ## Conclusion:
 This project showcases my proficiency in web scraping, data analysis, and visualization, emphasizing my ability to derive actionable insights from large datasets. 
