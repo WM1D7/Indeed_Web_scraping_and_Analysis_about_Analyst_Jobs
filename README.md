@@ -58,6 +58,7 @@ To present the findings in a clear and accessible manner, I developed a dynamic 
 The dashboard includes interactive visualizations, charts, and graphs that enable stakeholders to grasp the nuances of the analyst job market in India easily.   
 
 ## Deliverables :
+<img src="https://github.com/WM1D7/Indeed_web_scraping_and_Analysis_about-_Analyst_Jobs/blob/main/Final%20Result/indeed_dasboard1.png" width="1200" height="600">
 
 
 ## Impact:
