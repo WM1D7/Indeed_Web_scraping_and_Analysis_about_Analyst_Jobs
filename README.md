@@ -8,16 +8,12 @@
 
 ## Project Description :
 
-Explore the dynamic world of Uber pickups in the bustling streets of New York City with our project, **"NYC Uber Insights."**     
-This data analysis endeavor aims to unravel the patterns, trends, and insights hidden within the New York Uber dataset.    
-From data retrieval to preparation, and from hourly rush analysis to pinpointing locations of peak activity, our project delves into various aspects of Uber pickups to extract meaningful information.
-
+I undertook a comprehensive project to analyze and visualize job data for Indeed analyst positions in India.       
+Leveraging web scraping techniques, I gathered real-time job listings to gain insights into the current employment landscape for analysts in the country.
 
 ## Tech Stack Used
 
- <img src="https://prtimes.jp/data/corp/127977/ogp/e01b3bbc4187ef29007d391908895ab8-828b3d71782c8eb0c5ce464c9a6be21b.png" width="250" height="150">
- 
- <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Emblem.png" width="250" height="150">
+ <img src="https://prtimes.jp/data/corp/127977/ogp/e01b3bbc4187ef29007d391908895ab8-828b3d71782c8eb0c5ce464c9a6be21b.png" width="250" height="150"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Emblem.png" width="250" height="150">
 
 
  ## 🛠 Skills Demonstrated :
@@ -34,12 +30,33 @@ From data retrieval to preparation, and from hourly rush analysis to pinpointing
 
 -  Data Visualization
 
+-  Web scraping using Python
+Data cleaning and preprocessing
+Advanced data analysis in Excel
+Dashboard creation and visualization
+
 ## Dataset : 
--  https://www.kaggle.com/datasets/wm1deep7/analyst-jobs-in-india-from-indeed-22-sept-2022
+https://www.kaggle.com/datasets/wm1deep7/analyst-jobs-in-india-from-indeed-22-sept-2022
 
 -  ##  Objectives :
 -  ## Approach :
 
+## Web scraping
+Utilizing web scraping tools **octoparse**, I systematically collected job postings from Indeed, extracting key information such as job titles, companies, locations, and job descriptions. 
+   
+   The data collection process ensured the inclusion of a diverse range of analyst positions across industries.
 
-**Deliverables 2 :**
--  **Conclusion:** 
+## Data Analysis:
+I employed advanced data analysis techniques using Excel to uncover trends, patterns, and valuable insights within the dataset.      
+This involved sorting and filtering data, performing statistical analysis, and creating visual representations to facilitate a comprehensive understanding of the job market.
+
+## Dashboard Creation:
+To present the findings in a clear and accessible manner, I developed a dynamic dashboard using Excel.    
+The dashboard includes interactive visualizations, charts, and graphs that enable stakeholders to grasp the nuances of the analyst job market in India easily.   
+
+**Deliverables :**
+
+
+**Conclusion:**
+The project provides valuable insights for job seekers, recruiters, and career counselors by offering a data-driven perspective on the current analyst job landscape in India.     
+The interactive dashboard enhances the usability of the findings and facilitates informed decision-making.    
