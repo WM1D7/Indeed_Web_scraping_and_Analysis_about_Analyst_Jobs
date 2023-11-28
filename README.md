@@ -38,8 +38,11 @@ Dashboard creation and visualization
 ## Dataset : 
 https://www.kaggle.com/datasets/wm1deep7/analyst-jobs-in-india-from-indeed-22-sept-2022
 
--  ##  Objectives :
--  ## Approach :
+##  Objectives :
+
+  
+
+## Approach :
 
 ## Web scraping
 Utilizing web scraping tools **octoparse**, I systematically collected job postings from Indeed, extracting key information such as job titles, companies, locations, and job descriptions. 
@@ -54,9 +57,11 @@ This involved sorting and filtering data, performing statistical analysis, and c
 To present the findings in a clear and accessible manner, I developed a dynamic dashboard using Excel.    
 The dashboard includes interactive visualizations, charts, and graphs that enable stakeholders to grasp the nuances of the analyst job market in India easily.   
 
-**Deliverables :**
+## Deliverables :
 
 
-**Conclusion:**
+## Impact:
 The project provides valuable insights for job seekers, recruiters, and career counselors by offering a data-driven perspective on the current analyst job landscape in India.     
-The interactive dashboard enhances the usability of the findings and facilitates informed decision-making.    
+The interactive dashboard enhances the usability of the findings and facilitates informed decision-making. 
+
+## Conclusion:
